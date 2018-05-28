@@ -9,7 +9,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/aac1d4916a354bce965b283cfc561348)](https://www.codacy.com/app/espe.bi.grupo5/ProyectoESPE-Planta?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=EspeGrupo5/ProyectoESPE-Planta&amp;utm_campaign=Badge_Grade)
 
 ## Cadacy coverage
-
+[![codecov](https://codecov.io/gh/EspeGrupo5/ProyectoESPE-Planta/branch/master/graph/badge.svg)](https://codecov.io/gh/EspeGrupo5/ProyectoESPE-Planta)
 
 ## Snyk
 [![Known Vulnerabilities](https://snyk.io/test/npm/name/badge.svg)](https://snyk.io/test/npm/name)
