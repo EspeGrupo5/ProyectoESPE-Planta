@@ -6,7 +6,7 @@
 [![Build Status](https://travis-ci.org/EspeGrupo5/ProyectoESPE-Planta.svg?branch=master)](https://travis-ci.org/EspeGrupo5/ProyectoESPE-Planta)
 
 ## Codacy code
-
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/aac1d4916a354bce965b283cfc561348)](https://www.codacy.com/app/espe.bi.grupo5/ProyectoESPE-Planta?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=EspeGrupo5/ProyectoESPE-Planta&amp;utm_campaign=Badge_Grade)
 
 ## Cadacy coverage
 
