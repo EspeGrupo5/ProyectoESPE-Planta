@@ -1,5 +1,5 @@
 Faker==0.8.15
-Mako==0.9.1
+Mako==1.2.2
 MarkupSafe==0.18
 PyYAML==3.10
 argcomplete==0.8.1
